@@ -113,4 +113,5 @@ Add some UI screenshots like:
 
 ## 📜 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 Pyaraka Pushyamithra
+
