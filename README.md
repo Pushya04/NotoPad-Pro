@@ -93,7 +93,8 @@ pyinstaller --onefile --windowed --icon=icon.ico app.py
 
 ## 💾 Download the Executable
 
-👉 [Click here to download the latest version](https://github.com//NotoPad-Pro/dist/app.exe)
+👉 [Click here to download the latest version](https://github.com/Pushya04/NotoPad-Pro/blob/main/dist/app.exe?raw=true)
+
 
 > ⚠️ Drag-and-drop is disabled in `.exe` builds for compatibility.
 
